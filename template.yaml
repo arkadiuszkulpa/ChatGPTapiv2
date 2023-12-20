@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  HelloWorldFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      CodeUri: ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq/
+      Handler: app.lambda_handler
+      Runtime: python3.9
+      Timeout: 40
+      Architectures:
+      - x86_64
+      Environment:
+        Variables:
+          API_KEY: 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
