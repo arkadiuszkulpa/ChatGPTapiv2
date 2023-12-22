@@ -3,6 +3,7 @@ import openai
 import os
 
 def lambda_handler(event, context):
+    print(openai.__version__)
     openai.api_key = os.getenv('API_KEY')
 
     # Log the body before parsing it

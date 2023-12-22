@@ -4,5 +4,54 @@
 			"path": ".."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "aws-sam",
+				"request": "direct-invoke",
+				"name": "ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq:app.lambda_handler (python3.9)",
+				"invokeTarget": {
+					"target": "code",
+					"projectRoot": "${workspaceFolder}/ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq",
+					"lambdaHandler": "app.lambda_handler"
+				},
+				"lambda": {
+					"runtime": "python3.9",
+					"payload": {},
+					"environmentVariables": {}
+				}
+			},
+			{
+				"type": "aws-sam",
+				"request": "direct-invoke",
+				"name": "ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq:app.lambda_handler (python3.9)",
+				"invokeTarget": {
+					"target": "code",
+					"projectRoot": "${workspaceFolder}/ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq",
+					"lambdaHandler": "app.lambda_handler"
+				},
+				"lambda": {
+					"runtime": "python3.9",
+					"payload": {},
+					"environmentVariables": {}
+				}
+			},
+			{
+				"type": "aws-sam",
+				"request": "direct-invoke",
+				"name": "ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq:app.lambda_handler (python3.9)",
+				"invokeTarget": {
+					"target": "code",
+					"projectRoot": "${workspaceFolder}/ChatGPTapiv2-HelloWorldFunction-rBYo9f3fV7bq",
+					"lambdaHandler": "app.lambda_handler"
+				},
+				"lambda": {
+					"runtime": "python3.9",
+					"payload": {},
+					"environmentVariables": {}
+				}
+			}
+		]
+	}
 }
