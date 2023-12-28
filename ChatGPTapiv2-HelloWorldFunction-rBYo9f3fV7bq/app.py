@@ -2,11 +2,25 @@ import json
 import openai
 import os
 
+from langchain.document_loaders import TextLoader
+from langchain.document_loaders import DirectoryLoader
+from langchain.indexes import VectorstoreIndexCreator
+from langchain.llms import OpenAI
+from langchain.chat_models import ChatOpenAI
+from langchain.document_loaders import UnstructuredFileLoader
+
 def lambda_handler(event, context):
-    openai.api_key = os.getenv('API_KEY')
+    print(openai.__version__)
+    openai.api_key = os.getenv('OPENAI_API_KEY')
 
     # Log the body before parsing it
     print(f"event['body']: {event['body']}")
+
+    #loader = TextLoader('data.txt')
+    loader = UnstructuredFileLoader(".", glob="*.txt")
+    index = VectorstoreIndexCreator().from_loaders([loader])
+
+    print(index.query(event['body']))
 
     # Parse the request body and extract the message
     if event['body'] is not None:
