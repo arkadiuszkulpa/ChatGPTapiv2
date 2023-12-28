@@ -1,0 +1,6 @@
+requests
+openai
+numpy
+langchain
+pandas
+unstructured[all-docs]

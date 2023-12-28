@@ -1,0 +1,90 @@
+Arkadiusz Kulpa CV
+
+Experienced Integration Test Engineer and Test lead currently working within a complex architecture as the company merges new functionality and data with its bespoke software solution. 
+I am also studying a level 7 Higher Apprenticeship in Artificial Intelligence Data Specialist with aim to keep implementing ever more innovative solutions to business problems. 
+If this Summary is all you will read then simply remember this:
+1.	I love asking ‘Why’ and understanding the first principles to develop solutions.
+2.	I take own initiative and work best when given responsibility AND ownership over a task. I am perfectly capable of figuring out my own priorities, picking the best way forward and organising my team’s workload (all the while keeping my line manager in the loop).
+3.	I can learn any technology needed to carry out a given task, I am deeply technical, love programming and solving complex problems.
+
+QA CERTIFICATIONS
+ISTQB Certified Tester, Foundation Level – AGILE Tester - 22-CTFL-AT-207587-06
+ISTQB Certified Tester, Foundation Level - 22-CTFL-204140-06
+
+STACK
+Familiarity score out of 10: HTML(6), CSS(6), JS(5), SQL(6), C++(2)
+WORK EXPERIENCE
+Functional Tester		   		             (2022 - present) 
+EQUINITI / WORTHING
+
+• Integration tested a complex Transitional Architecture linking a legacy system undergoing migration with a new bespoke software solution (mainly API calls using SoapUI and WCF Client). 
+• Took charge of own onboarding to describe processes that were not documented or standardised, thereby creating a 160 page and 24 000 word compendium that contains everything needed for anyone to learn the workstream. 
+• Standardised test preparation process by creating automated test prep templates that utilised the patterns found in the requirement documents to define core requirements for each type of test (De-integration, Middle Layer, Façade, etc)
+• Created an SQL Query Repository, by saving and organising all SQL queries that I wrote. The repository was tagged so that users can search for any query by Functional requirement, by Deintegration field or by business logic it covers
+• Maximised use of Azure Dev Ops to aid Test Management, by creating critical queries that complement the Excel based Test Schedule used within the department. Next I automated the Test Schedule reducing the manual labour required to bare minimum.
+
+WORK EXPERIENCE (CONTINUED)
+SOFTWARE TEST ANALYST		        (2021 - 2022) 
+ZOONOU / EASTBOURNE
+
+• Selected for Test Support project for a client with no QA capabilities, no communication or process management / best practices, with the aim to analyse the situation, collect information from across the business and thereby prepare the client for our in-house testing services
+• Took lead on each phase of the testing process, from ensuring clarity of business requirements, through creation of specific and undeniable test plans and regression scripts, through ensuring entry and exit criteria are testable, all the way to test execution and bug triage
+• Led during Standup / washup meetings, setting agenda, presenting progress reports and results, demos and walkthroughs with the business ensuring the situation and next steps are clearly understood by all parties
+• Participated in aligning client’s process to modern agile methodologies with use of mind maps to clarify user stories during the design phase of Sprint Zero
+• Took ownership of artifact creation using bespoke, informative, and automated spreadsheets during the transition process to specialist testing tools
+• Excelled while under pressure due to the difficult nature of the project, with many loaded interest groups, able to diffuse any situation and bring forth a positive testing result for all, by utilising my analytical mind and eloquence to explain the most complex issues with sufficient detail in a business friendly language
+DEPUTY STORE MANAGER (2018 - 2021) ALDI / LEWES & PORTSLADE
+• Excellent at handling emergencies (power cuts, theft, late deliveries) as able to prioritise tasks - e.g. store evacuation or stock loss prevention is carried out properly
+COUNT MANAGER (2015 – 2018) OCS / SOUTH EAST (Field Operative)
+• Managed teams of between 5 - 95 people (from small convenience stores to supermarkets such as Sainsbury, Tesco, B&Q, Aldi)
+• Designed an automated Deployment System maximising efficiency of management for field operatives and minibus teams - reducing fuel usage and man-hours by automatic route calculation
+RECRUITMENT COORDINATOR (2015 - 2015) EF / EASTBOURNE
+• Maintained and expanded Database of host families
+EU SALES AND MARKETING ADM (2014 - 2015) VEENUS  / WINDSOR
+
+INTERESTS
+Governance in Education
+I serve the community as Foundation Governor at the St Thomas a Becket Catholic Primary School
+YouTube Channel	
+I recently hit 5k subscribers on my channel, where I create translations and voiceover for psychology and self-help content into Polish
+Applied Psychology
+I am fascinated by trauma healing and parent roles in raising children.
+
+Music		
+I love playing Piano, it is really relaxing, but I think I enjoy the systematic complexity it entails. 1 head, 2 hands, 10 fingers all doing something separately but in symphony. 😊
+
+LANGUAGES
+•	English (Near-Native, C2+)
+•	Polish (Native)
+•	German (B2)
+•	Spanish (A1) 
+
+SPECIAL SKILLS
+Process Dev.
+(Logic)
+Analysing
+Presenting
+Ownership
+Management
+Team-building
+Mentoring
+
+BIG 5 MODEL TRAITS
+Openness  
+Conscientiousness
+Extroversion
+Agreeableness
+Neuroticism
+
+PHONE
+07707065560
+
+EMAIL
+Arkadiusz.kulpa.91
+@gmail.com
+
+ADDRESS:
+Eastbourne
+
+WEBSITE:
+www.ArkadiuszKulpa.co.uk

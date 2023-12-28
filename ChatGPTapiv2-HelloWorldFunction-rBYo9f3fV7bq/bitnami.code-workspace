@@ -1,9 +1,0 @@
-{
-	"folders": [
-		{
-			"uri": "vscode-remote://ssh-remote+3.211.27.47/home/bitnami"
-		}
-	],
-	"remoteAuthority": "ssh-remote+3.211.27.47",
-	"settings": {}
-}
